@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stock Market Management System</title>
+  <!-- Bootstrap CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .hero {
+      background: linear-gradient(to bottom, #007bff, #0056b3);
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .hero .btn {
+      background-color: #ff9800;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    .feature-item {
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      padding: 20px;
+      background: #fff;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">StockMaster</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+          <li class="nav-item"><a class="nav-link" href="login">Login</a></li>
+          <li class="nav-item"><a class="nav-link btn btn-warning text-dark" href="signup">Sign Up</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>Track and Manage Your Stocks Effortlessly</h1>
+      <p>Your one-stop solution for stock trading and portfolio management.</p>
+      <a href="signup.html" class="btn text-white">Get Started</a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-5 bg-light">
+    <div class="container text-center">
+      <h2>About Us</h2>
+      <p>StockMaster helps you track stock prices, manage your portfolio, and analyze market trends with ease.</p>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">Features</h2>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="feature-item">
+            <h3>Real-Time Prices</h3>
+            <p>Get updated stock prices in real-time.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="feature-item">
+            <h3>Portfolio Management</h3>
+            <p>Keep track of all your investments in one place.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="feature-item">
+            <h3>Transaction History</h3>
+            <p>View all your buy and sell transactions easily.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3">
+    <p>&copy; StockMaster is developed by Asan Mohammed from PSG College of Technology. All rights reserved.</p>
+  </footer>
+
+  <!-- Bootstrap JS CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
