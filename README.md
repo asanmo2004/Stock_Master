@@ -12,7 +12,7 @@ StockMaster helps you track stock prices, manage your portfolio, and analyze mar
 - View all your buy and sell transactions easily.
 
 
-Explore PairCode: https://stock-master-2.onrender.com/
+Explore StockMaster: https://stock-master-2.onrender.com/
 #### For running locally
 
 - Flask - run 'pip install flask flask-bcrypt'
