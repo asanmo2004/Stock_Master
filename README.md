@@ -54,5 +54,3 @@ Open app.py and paste the API Key in the designated variable
 ✅ **Well-structured installation steps for easy setup**  
 ✅ **Code blocks for better readability**  
 ✅ **Encourages community engagement & contributions**  
-
-This version makes your README polished, structured, and easy to follow! 🚀 Let me know if you need further refinements. 😊
