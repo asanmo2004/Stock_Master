@@ -4,7 +4,7 @@
 
 **StockMaster** is a powerful and intuitive stock market portfolio management system that allows users to track stock prices, manage their investments, and analyze market trends—all in real-time.  
 
-🔗 **Live Demo**: [StockMaster](https://stock-master-2.onrender.com/)  
+🔗 **Live Demo**: [StockMaster](https://stock-master.onrender.com)  
 📂 **GitHub Repository**: [StockMaster](https://github.com/asanmo2004/Stock_Master)  
 
 ---
