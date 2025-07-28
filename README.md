@@ -52,3 +52,17 @@ Open app.py and paste the API Key in the designated variable
 ✅ **Well-structured installation steps for easy setup**  
 ✅ **Code blocks for better readability**  
 ✅ **Encourages community engagement & contributions**  
+---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](./screenshots/Login.png)
+
+### 📨 Registration Page
+![Referrals](./screenshots/Registration.png)
+### 📊 Seek Referrals
+![Status](./screenshots/Seek.png)
+### 📊 Manage Incoming Requests
+![Status](./screenshots/Manage.png)
+### 📊 Status Tracker
+![Status](./screenshots/Status.png)
