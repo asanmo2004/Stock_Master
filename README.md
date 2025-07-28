@@ -56,7 +56,7 @@ Open app.py and paste the API Key in the designated variable
 ## 📸 Screenshots
 
 ### 🔐 Welcome Page
-![Welcome](./Screenshots/Screenshot 2025-07-28 235043.png)
+![Welcome](Screenshots/Screenshot 2025-07-28 235043.png)
 ### 🔐 Login Page
 ![Login](./screenshots/Login.png)
 
