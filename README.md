@@ -56,15 +56,19 @@ Open app.py and paste the API Key in the designated variable
 ## 📸 Screenshots
 
 ### 🔐 Welcome Page
-![Welcome](Screenshots/Screenshot 2025-07-28 235043.png)
-### 🔐 Login Page
-![Login](./screenshots/Login.png)
+![Welcome](Screenshots/Welcome.png)
+### 🔐 Sign Up Page
+![Login](Screenshots/Sign_up.png)
 
-### 📨 Registration Page
-![Referrals](./screenshots/Registration.png)
-### 📊 Seek Referrals
-![Status](./screenshots/Seek.png)
-### 📊 Manage Incoming Requests
-![Status](./screenshots/Manage.png)
-### 📊 Status Tracker
-![Status](./screenshots/Status.png)
+### 📨 Login Page
+![Referrals](Screenshots/Login.png)
+### 📊 Dashboard Page
+![Status](Screenshots/Dashboard.png)
+### 📊 Live Market Page
+![Status](Screenshots/Live_Market.png)
+### 📊 PortFolio Page
+![Status](Screenshots/My_Portfolio.png)
+### 📊 Transaction History Page
+![Status](Screenshots/Transaction.png)
+### 📊 Stock Predictor Page
+![Status](Screenshots/Stock_Predictor.png)
